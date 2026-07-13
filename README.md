@@ -13,6 +13,9 @@
 
 ## 📖 项目简介
 
+> [!IMPORTANT]
+> 本仓库包含本地后台、KV/Assets 和节点转换服务定制。更新上游前必须阅读 [上游更新与合并指南](docs/UPSTREAM_SYNC_GUIDE.md)。
+
 **edgetunnel** 是一个基于 CF Workers/Pages 平台的边缘计算隧道解密方案。它能够高效地处理网络流量，并提供强大的管理面板和灵活的节点配置能力。
 
 - 🖥️ **Demo 演示站点**：[https://EDT-Pages.github.io/admin](https://EDT-Pages.github.io/admin)
